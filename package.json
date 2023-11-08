@@ -9,7 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "fuels": "0.0.0-pr-1291-20231101155347",
+    "@fuel-wallet/react": "0.13.7-master-e0854e6",
+    "fuels": "^0.66.1",
     "next": "14.0.1",
     "react": "^18",
     "react-dom": "^18"
